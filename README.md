@@ -5,7 +5,6 @@
 <h2 align="center">👋 Hi, I'm <strong>Istiak Adil</strong></h2>
 <h3 align="center">Software Engineer | MERN | Next.js | Machine Learning Enthusiast</h3>
 
----
 
 <!-- Animated separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -19,75 +18,90 @@
 <div align="center">
 
 <div style="
-  max-width:900px;
-  display:flex;
-  justify-content:space-between;
-  padding:25px;
-  border-radius:18px;
-  backdrop-filter: blur(10px);
-  background: rgba(255, 255, 255, 0.08);
-  border: 1px solid rgba(255, 255, 255, 0.25);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
-  gap:25px;
-  flex-wrap: wrap;
+max-width:900px;
+display:flex;
+justify-content:space-between;
+align-items: center;
+padding:25px;
+border-radius:18px;
+backdrop-filter: blur(10px);
+background: rgba(255, 255, 255, 0.08);
+border: 1px solid rgba(255, 255, 255, 0.25);
+box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+gap:25px;
+flex-wrap: wrap;
 ">
 
-  <!-- LEFT SIDE -->
-  <div style="flex:1; min-width:260px;">
+<!-- LEFT SIDE -->
+<div style="flex:1; min-width:260px;" align="left">
 
-  - 🌱 Currently learning **Next.js, Machine Learning, Computer Science & Engineering**
-  - 🔭 Working on **BD-travel-spirit**
-  - 👨‍💻 All my projects:  
-    **https://github.com/IstiakAdil14?tab=repositories**
-  - 📫 Email: **istiakadil346@gmail.com**
-  - ⚡ Fun fact: **I'm funny and curious 😁**
+- 🌱 Currently learning **Next.js, Machine Learning, Computer Science & Engineering**
+- 🔭 Working on **BD-travel-spirit**
+- 👨‍💻 All my projects:  
+  **https://github.com/IstiakAdil14?tab=repositories**
+- 📫 Email: **istiakadil346@gmail.com**
+- ⚡ Fun fact: **I'm funny and curious 😁**
 
-  </div>
+</div>
 
-  <!-- RIGHT SIDE GIF -->
-  <div style="flex:1; text-align:center; min-width:260px;">
-    <img alt="coding" width="350" style="border-radius: 12px;"
-    src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
-  </div>
+<!-- RIGHT SIDE GIF -->
+<div style="flex:1; text-align:center; min-width:260px;" align="right">
+  <img alt="coding" width="350" style="border-radius: 12px;"
+  src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
+</div>
 
 </div>
 </div>
 
----
-
-<!-- Animated separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="100%">
 
 # 🎯 Tech Stack & Skills
 
+
+## 🎨 **Frontend Development**
 <p align="center">
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-9C033A?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
+</p>
+
+
+## ⚙️ **Backend Development**
+<p align="center">
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
+</p>
+
+
+## 🛢️ **Databases**
+<p align="center">
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
+</p>
+
+
+## 🛠️ **Tools & Platforms**
+<p align="center">
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 
 </p>
 
----
 
-<!-- Animated separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/laser.png" width="100%">
+
 
 # 📊 GitHub Analytics
 
@@ -105,15 +119,12 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake (Animated)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
 
-<!-- Animated separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/horizon.png" width="100%">
 
 # 🌐 Connect With Me
 
