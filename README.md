@@ -8,12 +8,12 @@
 ---
 
 <!-- Two-column layout container -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+## 🚀 About Me
 
-  <!-- LEFT SIDE = ABOUT ME -->
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
+
+  <!-- LEFT SIDE -->
   <div style="flex: 1;">
-
-  ## 🚀 About Me
 
   - 🌱 Currently learning **Next.js, Machine Learning, Computer Science & Engineering**
   - 🔭 Working on **BD-travel-spirit**
@@ -24,14 +24,13 @@
 
   </div>
 
-  <!-- RIGHT SIDE = GIF -->
-  <div style="flex: 1; text-align: right;">
-    <img alt="coding" width="400"
+  <!-- RIGHT SIDE -->
+  <div style="flex: 1; text-align: center;">
+    <img alt="coding" width="350"
     src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
   </div>
 
 </div>
-
 ---
 
 # 🎯 Tech Stack & Skills (Modern Badges)
