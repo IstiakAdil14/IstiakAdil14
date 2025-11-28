@@ -2,27 +2,35 @@
 <!-- 🔥 ANIMATED GRADIENT BANNER -->
 <!-- ============================= -->
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-<div>
 <h2 align="center">👋 Hi, I'm <strong>Istiak Adil</strong></h2>
 <h3 align="center">Software Engineer | MERN | Next.js | Machine Learning Enthusiast</h3>
-</div>
-
-<img alt="coding" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
-
-</div>
 
 ---
 
-## 🚀 About Me
+<!-- Two-column layout container -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
 
-- 🌱 Currently learning **Next.js, Machine Learning, Computer Science & Engineering**
-- 🔭 Working on **BD-travel-spirit**
-- 👨‍💻 All my projects are here:  
-  **https://github.com/IstiakAdil14?tab=repositories**
-- 📫 Reach me at: **istiakadil346@gmail.com**
-- ⚡ Fun fact: **I'm funny and curious 😁**
+  <!-- LEFT SIDE = ABOUT ME -->
+  <div style="flex: 1;">
+
+  ## 🚀 About Me
+
+  - 🌱 Currently learning **Next.js, Machine Learning, Computer Science & Engineering**
+  - 🔭 Working on **BD-travel-spirit**
+  - 👨‍💻 All my projects are here:  
+    **https://github.com/IstiakAdil14?tab=repositories**
+  - 📫 Reach me at: **istiakadil346@gmail.com**
+  - ⚡ Fun fact: **I'm funny and curious 😁**
+
+  </div>
+
+  <!-- RIGHT SIDE = GIF -->
+  <div style="flex: 1; text-align: right;">
+    <img alt="coding" width="400"
+    src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
+  </div>
+
+</div>
 
 ---
 
