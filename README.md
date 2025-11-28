@@ -2,11 +2,16 @@
 <!-- 🔥 ANIMATED GRADIENT BANNER -->
 <!-- ============================= -->
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div>
 <h2 align="center">👋 Hi, I'm <strong>Istiak Adil</strong></h2>
 <h3 align="center">Software Engineer | MERN | Next.js | Machine Learning Enthusiast</h3>
+</div>
 
-<!-- KEEPING YOUR GIF — DO NOT REMOVE -->
-<img align="right" alt="coding" width="400" style="margin-top: 50px;" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
+<img alt="coding" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
+
+</div>
 
 ---
 
