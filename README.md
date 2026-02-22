@@ -39,7 +39,7 @@ flex-wrap: wrap;
 - 🔭 Working on **BD-travel-spirit**
 - 👨‍💻 All my projects:  
   **https://github.com/IstiakAdil14?tab=repositories**
-- 📫 Email: **istiakadil346@gmail.com**
+- 📫 Email: **adilschronicle731@gmail.com**
 - ⚡ Fun fact: **I'm funny and curious 😁**
 
 </div>
