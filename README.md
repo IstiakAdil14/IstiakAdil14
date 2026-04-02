@@ -138,6 +138,9 @@ flex-wrap: wrap;
   <a href="https://instagram.com/9li9_4d1l">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+ <a href="https:https://istiak-adil.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 ---
