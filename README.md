@@ -106,8 +106,10 @@ flex-wrap: wrap;
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-kappa-swart.vercel.app/api?username=istiakadil14&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=istiakadil14&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api
+?username=istiakadil14&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api
+/api/top-langs/?username=istiakadil14&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
@@ -138,7 +140,7 @@ flex-wrap: wrap;
   <a href="https://instagram.com/9li9_4d1l">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
- <a href="https:https://istiak-adil.vercel.app/">
+ <a href="https://istiak-adil.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
