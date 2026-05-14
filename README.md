@@ -1,4 +1,4 @@
-```md id="o2uws5"
+
 <!-- ========================================================= -->
 <!-- 👋 HERO SECTION -->
 <!-- Clean professional introduction with portfolio + socials -->
@@ -281,7 +281,6 @@ https://github.com/IstiakAdil14
 
 </p>
 
----
 
 <!-- ========================================================= -->
 <!-- ⭐ FOOTER -->
