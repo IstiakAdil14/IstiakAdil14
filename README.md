@@ -114,12 +114,12 @@
 
 <img
   height="170"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=IstiakAdil14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  src="https://github-readme-stats.vercel.app/api?username=IstiakAdil14&show_icons=true&theme=tokyonight&hide_border=true"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IstiakAdil14&layout=compact&theme=tokyonight&hide_border=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IstiakAdil14&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 </p>
@@ -132,7 +132,7 @@
 
 <img
   height="200"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=istiakadil14&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com?user=IstiakAdil14&theme=tokyonight&hide_border=true"
 />
 
 </p>
