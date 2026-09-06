@@ -32,7 +32,7 @@
 - 👨‍💻 Explore my projects:
   - [GitHub Repositories](https://github.com/IstiakAdil14?tab=repositories)
 - 📫 Reach me at:
-  - **adilschronicle731@gmail.com**
+  - **istiakadil8@gmail.com**
 - ⚡ Fun fact:
   - **I'm funny and curious 😁**
 
