@@ -114,12 +114,14 @@
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=IstiakAdil14&show_icons=true&theme=tokyonight&hide_border=true"
+  src="./profile/stats.svg"
+  alt="GitHub Statistics"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IstiakAdil14&layout=compact&theme=tokyonight&hide_border=true"
+  src="./profile/top-langs.svg"
+  alt="Top Languages"
 />
 
 </p>
